@@ -1,2 +1,2 @@
 # Heroku-First
-Salary Prediction based on ML 
+Salary Prediction based on ML algo 
